@@ -1,4 +1,4 @@
-# LegoScratchCard
+# Lego Scratch Card
 
 ### **Overview - About this project**
 Simple App using a lib **ScratchView**
