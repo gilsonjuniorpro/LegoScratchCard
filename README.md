@@ -12,3 +12,8 @@ Simple App using a lib **ScratchView**
 
 ### 💻Technology
 - [Kotlin](https://kotlinlang.org/)
+
+### Libraries
+```bash
+    implementation 'com.github.AnupKumarPanwar:ScratchView:1.3'
+ ```
